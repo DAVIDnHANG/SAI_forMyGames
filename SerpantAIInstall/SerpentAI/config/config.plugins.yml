@@ -1,0 +1,6 @@
+SerpentPerfectCherryBlossomGamePlugin:
+  fps: 2
+SerpentTerreriaGameAgentPlugin:
+  frame_handler: PLAY
+SerpentTerreriaGamePlugin:
+  fps: 2

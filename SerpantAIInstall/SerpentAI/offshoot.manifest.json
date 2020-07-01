@@ -1,0 +1,49 @@
+{
+    "plugins": {
+        "SerpentPerfectCherryBlossomGamePlugin": {
+            "name": "SerpentPerfectCherryBlossomGamePlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_PerfectCherryBlossom_game.py",
+                    "pluggable": "Game"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "fps": 2
+            }
+        },
+        "SerpentTerreriaGamePlugin": {
+            "name": "SerpentTerreriaGamePlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_Terreria_game.py",
+                    "pluggable": "Game"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "fps": 2
+            }
+        },
+        "SerpentTerreriaGameAgentPlugin": {
+            "name": "SerpentTerreriaGameAgentPlugin",
+            "version": "0.1.0",
+            "files": [
+                {
+                    "path": "serpent_Terreria_game_agent.py",
+                    "pluggable": "GameAgent"
+                }
+            ],
+            "plugins": [],
+            "libraries": [],
+            "config": {
+                "frame_handler": "PLAY"
+            }
+        }
+    }
+}
