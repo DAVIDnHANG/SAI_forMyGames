@@ -1,6 +1,12 @@
-SerpentPerfectCherryBlossomGamePlugin:
-  fps: 2
-SerpentTerreriaGameAgentPlugin:
+SerpentIsaacGameAgentPlugin:
   frame_handler: PLAY
-SerpentTerreriaGamePlugin:
+SerpentIsaacGamePlugin:
+  fps: 2
+SerpentPathofExileGamePlugin:
+  fps: 2
+SerpentSuperHexagonGameAgentPlugin:
+  frame_handler: PLAY
+SerpentSuperHexagonGamePlugin:
+  fps: 2
+SerpentTerrariaGamePlugin:
   fps: 2
